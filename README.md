@@ -1,2 +1,2 @@
 End to end # Diabeties-prediction-model using python. 
-Built usingSimple vector machine and visualized using streamlit.
+Built using Simple vector machine and visualized using streamlit.
