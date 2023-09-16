@@ -1,3 +1,2 @@
-# Diabeties-prediction-model using python. 
-I used Simple vector machine for this.
-Have added streamlit functionality too in ad_11 file
+End to end # Diabeties-prediction-model using python. 
+Built usingSimple vector machine and visualized using streamlit.
